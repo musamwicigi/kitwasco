@@ -95,6 +95,7 @@ Routinely maintain water and sanitation services and infrastructure.
 Ensure that standards and licensing requirements are compiled with as stipulated by the Service Provision Agreement (SPA) signed with Coast Water Services Board.
 Waste water services: Operate and maintain sewers, manholes, pumps and sewage treatment plants<a href="http://preview.oklerthemes.com/" class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
 
+
                         </div>
                     </div>
                 </div>
@@ -329,18 +330,14 @@ Waste water services: Operate and maintain sewers, manholes, pumps and sewage tr
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+        <div style="text-align: center;padding: 30px; background-color: #f1f1f1">
+              <h3> Our Projects</h3>
+              </div>
 
-         
-                <div class="row">
+                    <div class="row" style="padding-top: 10px;>
                         <div class="col-md-12">
-                            <hr class="tall">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <h2>Our Latest <strong> Projects</strong> </h2>
-
-                           <!--  <div class="owl-carousel owl-theme" data-plugin-options="{'responsive': {'0': {'items': 1}, '479': {'items': 1}, '768': {'items': 2}, '979': {'items': 3}, '1199': {'items': 4}}, 'items': 4, 'margin': 10, 'loop': false, 'nav': false, 'dots': true}"> -->
                            <div class="col-md-9">
                                 <div class="col-md-4">
                                     <div class="recent-posts">
@@ -393,3 +390,37 @@ Waste water services: Operate and maintain sewers, manholes, pumps and sewage tr
                 </div>      
             </div>
                  
+                  <section class="call-to-action call-to-action-default with-button-arrow call-to-action-in-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 center">
+                    <div class="owl-carousel owl-theme mt-xl" data-plugin-options="{'items': 6, 'autoplay': true, 'autoplayTimeout': 3000}">
+                        <div>
+                            <img class="img-responsive" src="http://www.kitwasco.hypertechsolutions.co.ke/assets/img/logos/logo-1.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-responsive" src="http://www.kitwasco.hypertechsolutions.co.ke/assets/img/logos/logo-2.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-responsive" src="http://www.kitwasco.hypertechsolutions.co.ke/assets/img/logos/logo-3.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-responsive" src="http://www.kitwasco.hypertechsolutions.co.ke/assets/img/logos/logo-4.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-responsive" src="http://www.kitwasco.hypertechsolutions.co.ke/assets/img/logos/logo-5.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-responsive" src="http://www.kitwasco.hypertechsolutions.co.ke/assets/img/logos/logo-6.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-responsive" src="http://www.kitwasco.hypertechsolutions.co.ke/assets/img/logos/logo-4.png" alt="">
+                        </div>
+                        <div>
+                            <img class="img-responsive" src="http://www.kitwasco.hypertechsolutions.co.ke/assets/img/logos/logo-2.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
