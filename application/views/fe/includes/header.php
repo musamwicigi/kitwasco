@@ -53,7 +53,7 @@
     </head>
     <body>
         <div class="body">
-            <header id="header" class="header-narrow" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyStartAt': 57, 'stickySetTop': '-57px', 'stickyChangeLogo': false}">
+            <header id="header" class="header-narrow" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyStartAt': 57, 'stickySetTop': '-57px', 'stickyChangeLogo': false}" >
                 <div class="header-body">
                     <div class="header-top header-top-secondary header-top-style-3">
                         <div class="container">
@@ -67,6 +67,7 @@
                             </ul>
                         </div>
                     </div>
+                    <div style="background-color: #f1f1f1">
                     <div class="header-container container">
                         <div class="header-row">
                             <div class="header-column">
@@ -141,5 +142,6 @@
                             </div>
                         </div>
                     </div>
+                </div>
                 </div>
             </header>

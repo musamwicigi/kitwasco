@@ -1683,7 +1683,7 @@ ul.sitemap.list ul {
 
 .nav-tabs li a {
 	border-radius: 5px 5px 0 0;
-	font-size: 14px;
+	font-size: 15px;
 	margin-right: 1px;
 }
 
@@ -1693,7 +1693,7 @@ ul.sitemap.list ul {
 	border-left: 1px solid #EEE;
 	border-right: 1px solid #EEE;
 	border-top: 3px solid #EEE;
-	color: #CCC;
+	color: #0088cc;
 }
 
 .nav-tabs li a:hover {
@@ -2133,7 +2133,7 @@ ul.sitemap.list ul {
 	background: #F4F4F4;
 	border-left: 3px solid #CCC;
 	border-radius: 5px;
-	color: #CCC;
+	color: #3392d0;
 	display: block;
 	font-size: 1.1em;
 	min-height: 20px;
@@ -2209,7 +2209,7 @@ ul.sitemap.list ul {
 
 .toggle.active > label {
 	background: #F4F4F4;
-	border-color: #CCC;
+	border-color: #2688cc;
 }
 
 .toggle.active > label:before {

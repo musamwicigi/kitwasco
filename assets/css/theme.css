@@ -2576,9 +2576,9 @@ section.section-custom-map-2 section.section {
 .home-intro p {
 	color: #FFF;
 	display: inline-block;
-	font-size: 1.4em;
+	font-size: 1.5em;
 	font-weight: 300;
-	max-width: 800px;
+	max-width: 1440px;
 	padding-top: 5px;
 }
 
@@ -4941,4 +4941,7 @@ html.boxed .main {
 	html.boxed {
 		background: none !important;
 	}
+}
+.tjustify{
+	text-align: justify;
 }
