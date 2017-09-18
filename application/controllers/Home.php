@@ -11,5 +11,17 @@ class Home extends CI_Controller {
 
 		$this->load->view('fe/includes/template',$data);
 	}
+	function about(){
+		$data['main_content'] = 'fe/about';
+		$this->load->view('fe/includes/template',$data);
+	}
+	function services(){
+		$data['main_content'] = 'fe/services';
+		$this->load->view('fe/includes/template',$data);
+	}
+	function customercare(){
+		$data['main_content'] = 'fe/customercare';
+		$this->load->view('fe/includes/template',$data);
+	}
 
 }

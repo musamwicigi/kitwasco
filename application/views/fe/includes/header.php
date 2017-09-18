@@ -91,17 +91,13 @@
                                                             Home
                                                         </a>
                                                     </li>
-                                                    <li class="dropdown">
-                                                        <a class="dropdown-toggle" href="#">
+                                                    <li class="">
+                                                        <a class="" href="about">
                                                             About Us
                                                         </a>
-                                                        <ul class="dropdown-menu">
-                                                            <li><a href="#">Who we are</a></li>
-                                                            <li><a href="#">Our Structure</a></li>
-                                                        </ul>
                                                     </li>
                                                     <li class="">
-                                                        <a class="" href="#">
+                                                        <a class="" href="services">
                                                             Services
                                                         </a>
                                                     </li>
@@ -111,7 +107,7 @@
                                                         </a>
                                                     </li>
                                                     <li class="dropdown">
-                                                        <a class="dropdown-toggle" href="#">
+                                                        <a class="dropdown-toggle" href="customercare">
                                                             Customer Care
                                                         </a>
                                                         <ul class="dropdown-menu">
