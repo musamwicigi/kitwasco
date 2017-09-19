@@ -53,6 +53,12 @@ $route['default_controller'] = 'home';
 $route['about'] = 'home/about';
 $route['services'] = 'home/services';
 $route['customercare'] = 'home/customercare';
-
+$route['watersources'] = 'home/watersources';
+$route['faq'] = 'home/faq';
+$route['contact'] = 'home/contact';
+$route['download'] = 'home/download';
+$route['tenders'] = 'home/tenders';
+$route['gallery'] = 'home/gallery';
+$route['news'] = 'home/news';
 /*$route['404_override'] = 'home/error';*/
 $route['translate_uri_dashes'] = FALSE;

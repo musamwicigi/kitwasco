@@ -104,7 +104,7 @@
 										<li class="col-md-12 isotope-item services" style="text-align: justify;">
 											<h2>Our Services</h2>
 
-												<p>Kitui Water has the mandate to providing cost effective and affordable quality water and sanitation services to the residents of Kitui County. In discharging the mandate the company is expected to undertake the following responsibilities:</p>
+												<p>Kitui Water has the mandate to providing cost effective and affordable quality water and sanitation services to the residents of Mombasa County. In discharging the mandate the company is expected to undertake the following responsibilities:</p>
 
 												<p><ul>
 													<li>Provide quality and economical water and sanitation services to consumers.</li>
@@ -117,11 +117,11 @@
 
 												<h4>Water Status</h4>
 
-												<p>The projected present water demand for Kitui County is 186,000m³/day. The current production is about 42,000m³/day. The available supply can therefore meet only about 25% of demand consequently the available water in Kitui is distributed on a rationing basis according to existing rationing program.</p>
+												<p>The projected present water demand for Kitui County is 186,000m³/day. The current production is about 42,000m³/day. The available supply can therefore meet only about 25% of demand consequently the available water in Mombasa is distributed on a rationing basis according to existing rationing program.</p>
 
 
 												<h4>water quality</h4>
-												<p>Kitui water ensures daily quality monitoring before the water is distributed to the customers. Kitui water monitors water quality and attends to detected quality problems promptly.</p>
+												<p>Mombasa water ensures daily quality monitoring before the water is distributed to the customers. Mombasa water monitors water quality and attends to detected quality problems promptly.</p>
 
 										</li>
 										
@@ -131,9 +131,9 @@
 											<div class="portfolio-item">
 												<h2>Sewerage Services</h2>
 
-													<h4>Kitui water sewerage department</h4>
+													<h4>mombasa water sewerage department</h4>
 
-													<p>Storm Water Drains and Foul Sewers in Kitui were designed to carry flows separately to the ocean. Storm water is discharged directly to the ocean. Sewage is treated before discharging to the Marine Environment. The defunct Municipal Council through its Engineering Department was responsible for both storm water and sewerage facilities. In 2005 asset holding of Sewerage facilities was transferred to CWSB through a Lease Agreement (LA). Kitui Water through A Service Provision Agreement (SPA) with CWSB took over the facilities for operation and maintenance only.</p>
+													<p>Storm Water Drains and Foul Sewers in Mombasa were designed to carry flows separately to the ocean. Storm water is discharged directly to the ocean. Sewage is treated before discharging to the Marine Environment. The defunct Municipal Council through its Engineering Department was responsible for both storm water and sewerage facilities. In 2005 asset holding of Sewerage facilities was transferred to CWSB through a Lease Agreement (LA). Mombasa Water through A Service Provision Agreement (SPA) with CWSB took over the facilities for operation and maintenance only.</p>
 
 
 													<h4>Raw sewage Island Pumping Stations</h4>
@@ -142,7 +142,7 @@
 													<h4>Kizingo Sewage Treatment Plant</h4>
 
 													<p>The Kizingo Plant was designed to provide Primary treatment only.
-													The screens and the sedimentation tanks were constructed underground, beneath the Kitui Golf Course.
+													The screens and the sedimentation tanks were constructed underground, beneath the Mombasa Golf Course.
 													The Screenings were automatically raked in the first chamber.
 													At the bottom of twin tanks with three hoppers sludge that had accumulated was removed under hydrostatic pressure and discharged through a Sludge Draw-Off Pipe directly to the ocean on the ebb tide.
 													The supernatant was discharged through an outfall 43 m away, 2m bsl.
@@ -154,7 +154,7 @@
 													<h4>Kipevu Sewage Treatment Plant</h4>
 
 													<p>The Plant is located at Kipevu, adjacent to Kilindini Harbor with an outfall at berth No.14.
-													It is an extended aeration facility, utilizing an oxidation ditch system, constructed under the Phase I of Kitui Sewerage Project to replace the original Biological Filter Plant.
+													It is an extended aeration facility, utilizing an oxidation ditch system, constructed under the Phase I of Mombasa Sewerage Project to replace the original Biological Filter Plant.
 													The plant commissioned in the Year 2000, consists of pretreatment, aeration, clarification, sludge processing and sludge drying units.</p>
 													<p>The plant was designed to serve a population equivalent of 200,000. The inflow is currently at less than 40% of the Design Average Dry Weather Flow of 17100 cm/day.</p>
 

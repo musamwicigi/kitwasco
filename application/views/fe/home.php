@@ -87,15 +87,14 @@
                         <div class="feature-box-info">
                         <h2 class="mb-sm">Our Services</h2>
                         <p class="mb-lg">
-                            The company has the mandate to providing cost effective and affordable quality water and sanitation services to the residents of Mombasa County. In discharging the mandate the company is expected to undertake the following responsibility:
+                        <img src="<?php echo base_url();?>assets/images/kitwasco3.JPG" width="100%" style="padding-bottom: 15px" >
+                            The company has the mandate to providing cost effective and affordable quality water and sanitation services to the residents of Kitui County. </p>
 
-Provide quality and economical water and sanitation services to consumers.
-Billing for water and sanitation services and ensure timely collection of dues.
-Routinely maintain water and sanitation services and infrastructure.
-Ensure that standards and licensing requirements are compiled with as stipulated by the Service Provision Agreement (SPA) signed with Coast Water Services Board.
-Waste water services: Operate and maintain sewers, manholes, pumps and sewage treatment plants<a href="http://preview.oklerthemes.com/" class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
-
-
+                            <!-- <p>Provide quality and economical water and sanitation services to consumers.
+                            Billing for water and sanitation services and ensure timely collection of dues.
+                            Routinely maintain water and sanitation services and infrastructure.
+                            Ensure that standards and licensing requirements are compiled with as stipulated by the Service Provision Agreement (SPA) signed with Coast Water Services Board.
+                            Waste water services: Operate and maintain sewers, manholes, pumps and sewage treatment plants --><p><a href="http://preview.oklerthemes.com/" class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
                         </div>
                     </div>
                 </div>
@@ -106,8 +105,12 @@ Waste water services: Operate and maintain sewers, manholes, pumps and sewage tr
                                 </div> -->
                                 <div class="feature-box-info">
                                     <h2 class="mb-sm">Our Mission &amp; Vision</h2>
-                                    <img src="<?php echo base_url();?>assets/images/vision.jpg" width="100%">
+                                    <img src="<?php echo base_url();?>assets/images/kitwasco16.JPG" width="100%" height="70%">
                                     <p class="mb-lg">
+                                    <strong>Our mission:- </strong> To be a reputable provider of adequate, reliable, safe water and sewerage services </p>
+                                      <p class="mb-lg">
+                                    <strong>Our vision:- </strong> To provide sustainable, safe and adequate water and sewerage services to our customers in a cost effective manner</p>
+
                                         
                                         
                                 </div>
@@ -117,31 +120,39 @@ Waste water services: Operate and maintain sewers, manholes, pumps and sewage tr
               </div>
 
               <div style="text-align: center;padding: 30px; background-color: #f1f1f1">
-              <h3> Information Desk</h3>
+               <h2 class="mb-xl"><strong>Information</strong> Desk</h2>
               </div>
 
 
                   <div class="container">
                     <div class="row">
-                       <div class="col-md-6">
-                         <div class="col-md-6" style="text-align: justify;">
+                       <div class="col-md-5">
+                         <div class="col-md-12" style="text-align: justify;">
                             <h2 class="mb-xl"><strong>Tarrif</strong> Information</h2>
-                            <img src="<?php echo base_url();?>assets/images/waterbill.png" width="100%">
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat.</p>
-
-                            <a class="btn btn-borders btn-default mr-xs mb-sm">Read More</a>
+                            <img src="<?php echo base_url();?>assets/images/waterbill.png" style="float:left; padding-right: 15px" width="50%">
+                            <p>The Water Act 2016 is aligned to the COK 2010.1 Under the Act, county governments appoint or establish Water Service Providers to serve as licensed water operators.  Section 78. (1) of the Act states that a water services provider shall be responsible for:
+                            The provision of water services within the area specified in the license;
+                               and The development of county assets for water service provision.
+                            
+                            <a href="http://preview.oklerthemes.com/" class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
                         </div>
-                            <div class="col-md-6" style="text-align: justify;">
+                       
+                            <div class="col-md-12" style="text-align: justify;">
+                             <hr class="tall"/>
                             <h2 class="mb-xl"><strong>Conserve</strong> Water</h2>
-                            <img src="<?php echo base_url();?>assets/images/conservewater.jpg" width="100%">
-                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat.</p>
-
-                            <a class="btn btn-borders btn-default mr-xs mb-sm">Read More</a>
+                            <img src="<?php echo base_url();?>assets/images/conservewater.jpg" style="float:left; padding-right: 15px" width="50%">
+                            <p>Check pipes for leaks-a small drip can waste up to 20 litres per day. Larger leaks can waste 100s of litres per day. Check all faucets, pipes and toilets for leaks.
+                            Install water saving showerheads and ultra-low-flush toilets.
+                            Take shorter showers.
+                            Never use your toilet as a wastebasket.
+                            Turn off the water while brushing your teeth or shaving.
+                            Defrost frozen food in the refrigerator.<a href="http://preview.oklerthemes.com/" class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
                         </div>
                             
                         </div>
-                        <div class="col-md-6" style="padding-top: 10px">
+                        <div class="col-md-7" style="padding-top: 10px">
                             <div class="tabs">
+                             <h2 class="mb-xl"><strong>Adverts</strong> &amp; Notices</h2>
                                 <ul class="nav nav-tabs">
                                     <li class="active">
                                         <a href="#public" data-toggle="tab"><i class="fa fa-star"></i> Public Notice</a>
@@ -335,50 +346,48 @@ Waste water services: Operate and maintain sewers, manholes, pumps and sewage tr
         <div style="text-align: center;padding: 30px; background-color: #f1f1f1">
               <h3> Our Projects</h3>
               </div>
-
+                <div class="container">  
                     <div class="row" style="padding-top: 10px;>
                         <div class="col-md-12">
                            <div class="col-md-9">
                                 <div class="col-md-4">
                                     <div class="recent-posts">
                                         <article class="post">
-                                            <div class="date">
-                                                <span class="day">15</span>
-                                                <span class="month">Jan</span>
-                                            </div>
-                                            <h4 class="heading-primary"><a href="blog-post.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat libero. Lorem ipsum amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat libero. <a href="http://preview.oklerthemes.com/" class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
+                                            <h4 class="heading-primary"><a href="blog-post.html">Mutitu – Thua Sanitation &amp; Water Project</a></h4>
+                                            <span style="color: #4a97d2">September 10th 2017</span>
+                                            <img src="<?php echo base_url();?>assets/images/kitwasco3.JPG" width="100%" style="padding-bottom: 15px" >
+                                            <p>The project is funded by Kenya Italy Debt for Development Programme (KIDDP) through Tanathi Water Services Board.
+                                           
+                                           <a href="http://preview.oklerthemes.com/" class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
                                         </article>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="recent-posts">
                                         <article class="post">
-                                            <div class="date">
-                                                <span class="day">15</span>
-                                                <span class="month">Jan</span>
-                                            </div>
-                                            <h4 class="heading-primary"><a href="blog-post.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat libero. Lorem ipsum amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat libero. <a href="http://preview.oklerthemes.com/" class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
+                                            <h4 class="heading-primary"><a href="blog-post.html">Masinga – Kitui Water and Sanitation Project.</a></h4>
+                                            <span style="color: #4a97d2">September 10th 2017</span>
+                                            <img src="<?php echo base_url();?>assets/images/kitwasco3.JPG" width="100%" style="padding-bottom: 15px" >
+                                            <p>Masinga – Kitui Water Supply &amp; Sanitation Project is funded by African Development Bank. It has two lots: Lot A and Lot B.
+                                            <a href="http://preview.oklerthemes.com/" class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
                                         </article>
                                     </div>
                                 </div>
-                              <div class="col-md-4">
+                                <div class="col-md-4">
                                     <div class="recent-posts">
                                         <article class="post">
-                                            <div class="date">
-                                                <span class="day">15</span>
-                                                <span class="month">Jan</span>
-                                            </div>
-                                            <h4 class="heading-primary"><a href="blog-post.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat libero. Lorem ipsum amet, consectetur adipiscing elit. Donec hendrerit vehicula est, in consequat libero. <a href="http://preview.oklerthemes.com/" class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
+                                            <h4 class="heading-primary"><a href="blog-post.html">Masinga – Kitui Water and Sanitation Project.</a></h4>
+                                            <span style="color: #4a97d2">September 10th 2017</span>
+                                            <img src="<?php echo base_url();?>assets/images/kitwasco3.JPG" width="100%" style="padding-bottom: 15px" >
+                                            <p>Masinga – Kitui Water Supply &amp; Sanitation Project is funded by African Development Bank. It has two lots: Lot A and Lot B.
+                                            <a href="http://preview.oklerthemes.com/" class="read-more">read more <i class="fa fa-angle-right"></i></a></p>
                                         </article>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-md-3">
-                            <h4>List of latest Projects</h4>
+                            <h4 class="heading-primary"><a href="blog-post.html">Latest Projects</a></h4>
                             <p><i class="fa fa fa-angle-right"></i> Repair work along 10”AC Baricho line </p><p><i class="fa fa fa-angle-right"></i> Repair work along 10”AC Baricho line </p><p><i class="fa fa fa-angle-right"></i> Repair work along 10”AC Baricho line </p>
                             <p><i class="fa fa fa-angle-right"></i> Repair work along 10”AC Baricho line </p>
                             <p><i class="fa fa fa-angle-right"></i> Repair work along 10”AC Baricho line </p>.

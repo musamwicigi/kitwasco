@@ -87,7 +87,7 @@
                                             <nav>
                                                 <ul class="nav nav-pills" id="mainNav">
                                                     <li class="active">
-                                                        <a href="index.html">
+                                                        <a href="home">
                                                             Home
                                                         </a>
                                                     </li>
@@ -102,7 +102,7 @@
                                                         </a>
                                                     </li>
                                                     <li class="">
-                                                        <a class="" href="#">
+                                                        <a class="" href="watersources">
                                                             Water Sources
                                                         </a>
                                                     </li>
@@ -111,7 +111,7 @@
                                                             Customer Care
                                                         </a>
                                                         <ul class="dropdown-menu">
-                                                            <li><a href="#">FAQ</a></li>
+                                                            <li><a href="faq">FAQ</a></li>
                                                         </ul>
                                                     </li>
                                                     <li class="dropdown">
@@ -119,14 +119,14 @@
                                                             Media Center
                                                         </a>
                                                         <ul class="dropdown-menu">
-                                                            <li><a href="#">News and Events</a></li>
-                                                            <li><a href="#">Downloads</a></li>
-                                                            <li><a href="#">Tenders</a></li>
-                                                            <li><a href="#">Gallery</a></li>
+                                                            <li><a href="news">News and Events</a></li>
+                                                            <li><a href="download">Downloads</a></li>
+                                                            <li><a href="tenders">Tenders</a></li>
+                                                            <li><a href="gallery">Gallery</a></li>
                                                         </ul>
                                                     </li>
                                                     <li class="">
-                                                        <a href="#">
+                                                        <a href="contact">
                                                             Contact Us
                                                         </a>
                                                     </li>
