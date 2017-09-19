@@ -152,10 +152,10 @@
                         </div>
                         <div class="col-md-7" style="padding-top: 10px">
                             <div class="tabs">
-                             <h2 class="mb-xl"><strong>Adverts</strong> &amp; Notices</h2>
+                             <h2 class="mb-xl"><strong>Adverts </strong> &amp; Notices</h2>
                                 <ul class="nav nav-tabs">
                                     <li class="active">
-                                        <a href="#public" data-toggle="tab"><i class="fa fa-star"></i> Public Notice</a>
+                                        <a href="#public" data-toggle="tab"><i class="fa fa-star"></i> Interruption Notice</a>
                                     </li>
                                     <li>
                                         <a href="#jobads" data-toggle="tab">Job adverts</a>
@@ -164,7 +164,7 @@
                                         <a href="#tenders" data-toggle="tab">Tender &amp; Notices</a>
                                     </li>
                                     <li>
-                                        <a href="#interruptions" data-toggle="tab">Interruption Notices</a>
+                                        <a href="#interruptions" data-toggle="tab"><strong>Adverts</strong> &amp; Notices</a>
                                     </li>
                                     
                                 </ul>
@@ -175,23 +175,32 @@
                                 <section class="toggle active">
                                     <label>25-03-2017: Interruption of water supply due to a technical breakdown at NDALA AREA</label>
                                     <div class="toggle-content">
-                                        <p>We would like to inform our esteemed customers that due to a pipeline Burst at Ndala area, near Maungu;normal water supply as per our distribution programme will be interrupted.This will affect mostly wider West Mainland regions of Miritini, Changamwe, Magongo, Mikindani, Chaani, and part of the Northern Island area. Engineers are on site to curb the situation. We sincerely apologize for the inconveniences caused.
+                                        <p>We would like to inform our esteemed customers that due to a pipeline Burst at Ndala area, near Maungu;normal water supply as per our distribution programme will be interrupted.Kitui Central, Lower Yatta, Kitui West, Kisasi, Nzambani, Mutitu, Mutomo, Ikutha, Katulani, Matinyani, Mwingi Central, Mwingi East,Tseikuru, Muumoni, Kyuso and Migwani.
 
-                                        Normal water supply shall resume as soon as the situation is resolved...Thank You.</p>
+                                        Normal water supply shall resume as soon as the situation is resolved...<br/>Thank You.</p>
                                     </div>
                                 </section>
                                 <section class="toggle">
-                                    <label>18-03-2017: Resumption of water pumping at Baricho Water works</label>
+                                    <label>Areas Not Receiving Adequate Water</label>
                                     <div class="toggle-content">
                                         <p>
-                                        Dear customers, pumping at Baricho Water Works resumed this evening at 7.05pm. It takes 6-8 hours for in-flow to commence at our Nguu Tatu Resevoirs. Consequently, normal supply will resume tomorrow God -willing, as per the distribution programme. We sincerely thank you for your support and patience and once again we apologize for the inconveniences caused. </p>
+                                        The following areas are not adequately served or don’t receive water throughout the month. This normally happens during the dry spells when everybody turns to tap water and this is due to tapping from the rising main. The affected areas are:-<br/>
+                                        1) Kihara line has many tappings and water rarely reaches their off take. Expected to improve when Masinga - Kitui Phase II is complete.<br/>
+                                        2) Wii – the major supply is from Mbooni b/hole which broke down. <br/>Currently we use Kavisuni pipeline which doesn’t provide adequate supply and we have to close the main at Ngiluni junction.<br/>
+                                        3) Ithiani/Itoleka/Ngengeka – this is determined by the level at Katheka tank, the other problem is the size of the pipeline serving those areas which is not adequate since it has been over tapped forcing us to stop installation of new connections along the area until the same has been up graded.<br/>
+                                        4) Ikolania/Mbusyani – served by Mbooni borehole which is not operational.<br/>
+                                        5) Mulango/Kisekini – this branch line has been over tapped for it was an individual line (connection) but today serving as a distribution for the area and so to serve the large no. of people calls for more time also upgrade Mulango pipeline.<br/>
+                                        6) Mathulini/Kilonzo – depends on the levels at Kwa Ngindu tank which cannot be currently maintained and has also been over tapped. To improve when Masinga – Kitui Phase II is complete and upgrade the pipeline.<br/>
+                                        7) Manyenyoni – has been over tapped, the pipeline needs to be upgraded from 25mm to 65mm and some areas be relocated to avoid interruptions. </p>
                                     </div>
                                 </section>
                                 <section class="toggle">
-                                    <label>18-03-2017: Resumption of water pumping at Baricho Water works</label>
+                                    <label>Proposed Community Projects Handover</label>
                                     <div class="toggle-content">
                                         <p>
-                                        Dear customers, pumping at Baricho Water Works resumed this evening at 7.05pm. It takes 6-8 hours for in-flow to commence at our Nguu Tatu Resevoirs. Consequently, normal supply will resume tomorrow God -willing, as per the distribution programme. We sincerely thank you for your support and patience and once again we apologize for the inconveniences caused. </p>
+                                       The Company has received Expression of Interest from the Ithiani community to handover the running of Ithiani Water Project. The project is not operational and the request has been forwarded to the County Government of Kitui (Director Water &amp; Irrigation) for operationalisation and hand over.6.5 Groundwater Section.</p>
+                                       <p>
+                                        Application for power supply to Ikanga – Mutomo Water Project was done last year. KPLC send their quotation totaling KES 3million. Since then Ministry of Health, just across the road, installed power and a new application has been filed with KPLC.  Requirements and cost implications for changing the systems have also been finalised.</p>
                                     </div>
                                 </section>
                                 <section class="toggle">
@@ -216,26 +225,34 @@
                     <div id="jobads" class="tab-pane">
                         <div class="toggle toggle-primary" style="padding: 15px" data-plugin-toggle>
                                 <section class="toggle active">
-                                    <label>25-03-2017: Interruption of water supply due to a technical breakdown at NDALA AREA</label>
+                                    <label>Proposed Community Projects Handover</label>
                                     <div class="toggle-content">
-                                        <p>We would like to inform our esteemed customers that due to a pipeline Burst at Ndala area, near Maungu;normal water supply as per our distribution programme will be interrupted.This will affect mostly wider West Mainland regions of Miritini, Changamwe, Magongo, Mikindani, Chaani, and part of the Northern Island area. Engineers are on site to curb the situation. We sincerely apologize for the inconveniences caused.
-
-                                        Normal water supply shall resume as soon as the situation is resolved...Thank You.</p>
+                                        <p>The Company has received Expression of Interest from the Ithiani community to handover the running of Ithiani Water Project. The project is not operational and the request has been forwarded to the County Government of Kitui (Director Water &amp; Irrigation) for operationalisation and hand over.6.5 Groundwater Section
+                                        Application for power supply to Ikanga – Mutomo Water Project was done last year. KPLC send their quotation totaling KES 3million. Since then Ministry of Health, just across the road, installed power and a new application has been filed with KPLC.  Requirements and cost implications for changing the systems have also been finalised.</p>
                                     </div>
                                 </section>
                                
                                 <section class="toggle">
-                                    <label>18-03-2017: Resumption of water pumping at Baricho Water works</label>
+                                    <label>Proposals Submitted</label>
                                     <div class="toggle-content">
-                                        <p>
-                                        Dear customers, pumping at Baricho Water Works resumed this evening at 7.05pm. It takes 6-8 hours for in-flow to commence at our Nguu Tatu Resevoirs. Consequently, normal supply will resume tomorrow God -willing, as per the distribution programme. We sincerely thank you for your support and patience and once again we apologize for the inconveniences caused. </p>
+                                    
+                                       <p>The Company has prepared and submitted the below proposals to WSTF for funding: -<br/>
+                                        a) Kwa-Vonza Ecosan Toilet – KES 6.5million<br/>
+                                        b) Kalundu Ecosan Toilet – KES 5million<br/>
+                                        c) Kabati-Kwa Vonza Water Supply Project – 7.7million<br/>
+                                        d) Kalundu Water Project – 10million<br/>
+                                        </p>
+
+
                                     </div>
                                 </section>
                                 <section class="toggle">
-                                    <label>18-03-2017: Resumption of water pumping at Baricho Water works</label>
+                                    <label>Proposed Community Projects Handover</label>
                                     <div class="toggle-content">
                                         <p>
-                                        Dear customers, pumping at Baricho Water Works resumed this evening at 7.05pm. It takes 6-8 hours for in-flow to commence at our Nguu Tatu Resevoirs. Consequently, normal supply will resume tomorrow God -willing, as per the distribution programme. We sincerely thank you for your support and patience and once again we apologize for the inconveniences caused. </p>
+                                       The Company has received Expression of Interest from the Ithiani community to handover the running of Ithiani Water Project. The project is not operational and the request has been forwarded to the County Government of Kitui (Director Water &amp; Irrigation) for operationalisation and hand over.6.5 Groundwater Section.</p>
+                                       <p>
+                                        Application for power supply to Ikanga – Mutomo Water Project was done last year. KPLC send their quotation totaling KES 3million. Since then Ministry of Health, just across the road, installed power and a new application has been filed with KPLC.  Requirements and cost implications for changing the systems have also been finalised.</p>
                                     </div>
                                 </section>
                                 <section class="toggle">
@@ -260,9 +277,9 @@
                                 <section class="toggle active">
                                     <label>25-03-2017: Interruption of water supply due to a technical breakdown at NDALA AREA</label>
                                     <div class="toggle-content">
-                                        <p>We would like to inform our esteemed customers that due to a pipeline Burst at Ndala area, near Maungu;normal water supply as per our distribution programme will be interrupted.This will affect mostly wider West Mainland regions of Miritini, Changamwe, Magongo, Mikindani, Chaani, and part of the Northern Island area. Engineers are on site to curb the situation. We sincerely apologize for the inconveniences caused.
+                                        <p>We would like to inform our esteemed customers that due to a pipeline Burst at Ndala area, near Maungu;normal water supply as per our distribution programme will be interrupted.Kitui Central, Lower Yatta, Kitui West, Kisasi, Nzambani, Mutitu, Mutomo, Ikutha, Katulani, Matinyani, Mwingi Central, Mwingi East,Tseikuru, Muumoni, Kyuso and Migwani.
 
-                                        Normal water supply shall resume as soon as the situation is resolved...Thank You.</p>
+                                        Normal water supply shall resume as soon as the situation is resolved...<br/>Thank You.</p>
                                     </div>
                                 </section>
                                
@@ -300,11 +317,19 @@
                                     <div id="interruptions" class="tab-pane">
                                         <div class="toggle toggle-primary" style="padding: 15px" data-plugin-toggle>
                                 <section class="toggle active">
-                                    <label>25-03-2017: Interruption of water supply due to a technical breakdown at NDALA AREA</label>
+                                    <label>NOTABLE ACHIEVEMENTS</label>
                                     <div class="toggle-content">
-                                        <p>We would like to inform our esteemed customers that due to a pipeline Burst at Ndala area, near Maungu;normal water supply as per our distribution programme will be interrupted.This will affect mostly wider West Mainland regions of Miritini, Changamwe, Magongo, Mikindani, Chaani, and part of the Northern Island area. Engineers are on site to curb the situation. We sincerely apologize for the inconveniences caused.
+                                        <p>
+                                            Over the last few years, the Company has made noticeable strides in her endeavour to improve service delivery. Some are as briefly mentioned below: -<br/>
 
-                                        Normal water supply shall resume as soon as the situation is resolved...Thank You.</p>
+                                            1. Establishment of Regional Offices - The Company has several Regional Offices as outlined below: -<br/>
+                                            a. Masinga Water Treatment Works – serves Masinga Region<br/>
+                                            b. Kithyoko Trading Centre – serves Kthyoko Region<br/>
+                                            c. Katheka Trading Centre – serves Katheka Region<br/>
+                                            d. Matinyani Trading Centre – serves Matinyani Region<br/>
+                                            e. Ikanga Trading Centre – serves Ikanga Region<br/>
+                                            f. Mutomo Trading Centre – serves Mutomo Region<br/>
+                                            g. Mutitu Trading Centre – serves Thua and Mutitu Region...<br/>Thank You.</p>
                                     </div>
                                 </section>
                                

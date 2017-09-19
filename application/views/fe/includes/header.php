@@ -11,8 +11,8 @@
         <meta name="author" content="KITWASCO">
 
         <!-- Favicon -->
-        <link rel="shortcut icon" href="<?php echo base_url();?>assets/img/favicon.ico" type="image/x-icon" />
-        <link rel="apple-touch-icon" href="<?php echo base_url();?>assets/img/apple-touch-icon.png">
+        <link rel="shortcut icon" href="<?php echo base_url();?>assets/img/kitwasco.png" type="image/x-icon" />
+        <link rel="apple-touch-icon" href=<?php echo base_url();?>assets/img/kitwasco.png">
 
         <!-- Mobile Metas -->
         <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
